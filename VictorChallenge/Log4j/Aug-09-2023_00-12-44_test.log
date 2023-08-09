@@ -1,0 +1,11 @@
+2023-08-09 00:12:44 INFO  Log:20 - Starting Testing ...Test Suite is starting
+2023-08-09 00:12:44 INFO  Log:30 - Initialize WebDriver instance
+2023-08-09 00:12:44 INFO  Log:30 - Deleting Cookies
+2023-08-09 00:12:44 INFO  Log:30 - Applying the implicit wait during 10 seconds
+2023-08-09 00:12:44 INFO  Log:30 - Open the web site to test
+2023-08-09 00:12:44 INFO  Log:30 - Opening : http://localhost:3000/
+2023-08-09 00:12:44 INFO  Log:30 - Executing TEST CASE 4
+2023-08-09 00:12:44 INFO  Log:30 - Enter search to find
+2023-08-09 00:12:47 INFO  Log:30 - Click on Go Button
+2023-08-09 01:19:04 INFO  Log:25 - Ending Testing ...Test node is ending
+2023-08-09 01:19:04 INFO  Log:25 - Ending Testing ...Driver close
