@@ -47,3 +47,10 @@ Help Adam gain confidence in further development by automatically testing the mo
 - Please submit a link to your finished repository when you are ready
 
 ## Good luck and happy coding! :)
+
+## Instructions to run the set of tests.
+* The set of test cases are already parametrized to tun from the DemoRunner.sh file.
+* We need to set the environment first in order to connect to your localhost and run the application
+* If you want to run a specific test , you can go the DemoTest.java and run each one of the tests as you like.
+* Happy Testing!
+* 
